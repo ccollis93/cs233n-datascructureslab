@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week02\datastructures-lab-ccollis93\DataStructuresWindows\StringReverseStack\bin\Debug\StringReverseStack.exe.config
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week02\datastructures-lab-ccollis93\DataStructuresWindows\StringReverseStack\bin\Debug\StringReverseStack.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week02\datastructures-lab-ccollis93\DataStructuresWindows\StringReverseStack\bin\Debug\StringReverseStack.pdb
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week02\datastructures-lab-ccollis93\DataStructuresWindows\StringReverseStack\obj\Debug\StringReverseStack.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week02\datastructures-lab-ccollis93\DataStructuresWindows\StringReverseStack\obj\Debug\StringReverseStack.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week02\datastructures-lab-ccollis93\DataStructuresWindows\StringReverseStack\obj\Debug\StringReverseStack.exe
+C:\Users\Christian\Desktop\Spring2020\CS233N\Week02\datastructures-lab-ccollis93\DataStructuresWindows\StringReverseStack\obj\Debug\StringReverseStack.pdb
